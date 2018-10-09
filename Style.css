@@ -1,0 +1,31 @@
+body {
+    background-image: url(https://images.pexels.com/photos/1144176/pexels-photo-1144176.jpeg?cs=srgb&dl=beach-dawn-dusk-1144176.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px;
+    color: rgb(214, 207, 207);
+}
+
+button {
+    box-shadow: 2px 2px grey;
+    color: rgba(0, 0, 255, 0.555);
+    border-color: rgba(255, 166, 0, 0);
+}
+
+button:hover {
+    color: rgb(0, 12, 173);
+    background-color: rgb(255, 115, 0);
+    box-shadow: 3px 6px rgb(77, 77, 77);
+    transition: all 0.3s ease;
+}
+
+#bt2 {
+    background-color: rgba(255, 166, 0, 0.521);
+}
+
+.Class1 {
+    background-color: rgba(255, 166, 0, 0.281);
+}
+
+[href] {
+    color: cyan;
+}
